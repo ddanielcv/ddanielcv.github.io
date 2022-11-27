@@ -1,0 +1,55 @@
+body{
+	background: #293D93;
+	font-family: Ebrima;
+}
+
+h1{
+    background-image: linear-gradient(to right, red, yellow, #1A8023);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+header{
+	background: lightblue;
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	line-height: 80px;
+}
+nav{
+	text-align: center;
+	border: solid 1px;
+	background: #C5612B;
+	height: 80px;
+}
+nav ul li{
+
+	float:left;
+	list-style: none;
+	margin: 2px;
+
+}
+footer{
+	background: #5B5857;
+	color: white;
+	text-align: center;
+}
+table{
+	width: 100%;
+	min-height: 250px;
+	color: white;
+}
+div{
+	font-size: 13px;
+	 ;
+}
+p{
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+h2{
+	border-bottom: 2px solid;
+}
